@@ -40,7 +40,7 @@
 ## 🛠 Instalación y uso local
 
 ```bash
-git clone https://github.com/tuusuario/job-skill-tracker.git
+git clone https://github.com/LocusNiger/job-skill-tracker.git
 cd job-skill-tracker
 pnpm install
 pnpm dev
